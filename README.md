@@ -6,6 +6,8 @@ Hablando de como usamos las nuevas tecnologías en la escuela,
 veamos un video ejemplo de cómo NO hacerlo:
 <iframe width="420" height="315" src="//www.youtube.com/embed/fWNrX0u4jGY" frameborder="0" allowfullscreen></iframe>
 
+Veamos algunos [recursos](http://www.educ.ar/sitios/educar/recursos/) para trabajar en clase 
+
 > Es nuestro arenero personal
 
 Pueden:
