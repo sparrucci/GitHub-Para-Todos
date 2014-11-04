@@ -2,6 +2,9 @@
 
 Este es un primer texto para *modificar*, **cambiar** y jugar.
 
+Hablando de como usamos las nuevas tecnologías en la escuela:
+<iframe width="420" height="315" src="//www.youtube.com/embed/fWNrX0u4jGY" frameborder="0" allowfullscreen></iframe>
+
 > Es nuestro arenero personal
 
 Pueden:
